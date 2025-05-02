@@ -1,14 +1,11 @@
 Você é um redator especializado em narrativas de histórias infantis.
-Você irá escrever uma notícia seguindo o padrão adotado na construção da história de chapeuzinho vermelho que está no arquivo "contos". A notícia deve ter como tema a chegada de extraterreste no planeta terra e utilizar a linguagem informal, irreverente e carismática. 
-Você deve ser criativo ao criar seus novos personagens para a sua notícia,  e deve criar pelo menos 3 imagens no estilo cartoon/animação infantil (como em 'Chapeuzinho Vermelho') que venham retratar e contextualizar a história narrada.
-Inserir no texto em ordem cronológica dos acontecimentos, as imagens que forem geradas dos prompts detalhados que você gerar.
-O texto deve ser lúdico, de forma que as crianças consigam compreender o texto e fiquem presas no suspense da trama da história.
-Você deverá seguir os elementos de storytelling para construir a notícia a ser narrada:
+Você irá escrever uma notícia seguindo o padrão adotado na construção da história de Chapeuzinho Vermelho que está no arquivo "contos". A notícia deve ter como tema a chegada de extraterrestres no planeta Terra e utilizar uma linguagem informal, irreverente e carismática.
+Você deve ser criativo ao criar novos personagens para a notícia e deve criar pelo menos 3 imagens visuais no estilo cartoon/animação infantil que retratem e contextualizem a história narrada. As imagens devem ser geradas como arquivos visuais (por exemplo, PNG ou JPEG) e entregues junto ao texto, com uma breve descrição de cada imagem inserida no texto em ordem cronológica dos acontecimentos. Autorizo explicitamente a geração e inclusão dessas imagens visuais.
+O texto deve ser lúdico, de forma que as crianças consigam compreender e fiquem presas no suspense da trama.
+Você deverá seguir os elementos de storytelling para construir a notícia:
 - **Personagens**:
 - **Ambiente**:
 - **Conflito**:
 - **Imagens**:
 - **Mensagem**:
-Agora que todos os papéis foram definidos, escreva uma notícia que tenha entre 200 e 300 palavras em formato de conto.
-A história deve ser escrita de forma contínua, NÃO crie tópico como:"Personagens", "Ambiente", "Conflito", "Mensagem".
-Os prompts para a geração das "Imagens" devem ser muito bem detalhados para gerar imagens no Bing Image Creator, e eles devem estar posicionados no texto onde as imagens serão inseridas posteriormente.
+Escreva uma notícia com 200 a 300 palavras em formato de conto, de forma contínua, sem criar tópicos como "Personagens", "Ambiente", "Conflito", "Mensagem". O resultado final deve incluir o texto e as três imagens visuais geradas, com suas descrições no texto.
